@@ -49,7 +49,7 @@ app.UseHangfireDashboard();
 
 #### hangfire zamanı
  
-`'https://crontab.cronhub.io/'`
+https://crontab.cronhub.io/
  
 `* * * * *	Every minute`
 
@@ -62,8 +62,8 @@ app.UseHangfireDashboard();
 `0 0 1 * *	At 12:00 AM, on day 1 of the month`
 
 
-`https://www.hangfire.io/`
+https://www.hangfire.io/
 
-`https://medium.com/devopsturkiye/asp-net-core-hangfire-ile-arka-plan-i%CC%87%C5%9Flemleri-986790c37cf3`
+https://medium.com/devopsturkiye/asp-net-core-hangfire-ile-arka-plan-i%CC%87%C5%9Flemleri-986790c37cf3
 
 
